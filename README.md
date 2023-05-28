@@ -9,4 +9,4 @@
 arquivo archtect e o arquivo sql que contém o script do projeto.
 
 ### Programas utilizados
-- |PosgresSQL | DBeaver| Terminal Linux | SQL Power Architect|
+- |PosgresSQL | DBeaver | Terminal Linux | SQL Power Architect|
