@@ -1,4 +1,4 @@
-# uvv_bdl_cc1mc | PSET1 |
+# uvv_bd1_cc1mc | PSET1 |
 #### MatrÍcula: 202306703 | Aluno: Kyevenn Mendes Rezende | Turma: cc1mc
 #### Professor: Abrantes Araujo Silva Filho
 #
